@@ -2,4 +2,8 @@ h1{text-align: center;
 text-decoration-color: green;
 text-decoration-line: initial;}
 h2{text-decoration: dotted;}
-.categories {flex: auto;}
+.categories {display: flex;
+gap: 20 px;}
+.box{background-color: aliceblue;
+    padding: 20;
+border: 10 px;}
