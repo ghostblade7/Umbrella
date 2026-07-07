@@ -1,7 +1,5 @@
-h1{text-align: center;
-text-decoration-color: green;
-text-decoration-line: initial;}
-h2{text-decoration: dotted;}
+h1{color:aquamarine; text-align: center;
+font-style: initial;}
 .categories {display: flex;
 gap: 20 px;}
 .box{background-color: aliceblue;
