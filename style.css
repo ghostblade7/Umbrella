@@ -1,8 +1,8 @@
-input{align: center;} h1{color:aquamarine; text-align: center;
+.search{justify-content: center;} h1{color:aquamarine; text-align: center;
 font-style: initial;}
 .categories 
 {
-    display: flex;
+display: flex;
 justify-content: center;
 gap: 20px;
 }
