@@ -3,5 +3,5 @@ font-style: initial;}
 .categories {display: flex;
 gap: 20 px;}
 .box{background-color: aliceblue;
-    padding: 20;
+    padding: 20px;
 border: 10 px;}
