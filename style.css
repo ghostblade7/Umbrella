@@ -1,8 +1,14 @@
-input{align-content: center;} h1{color:aquamarine; text-align: center;
+input{align: center;} h1{color:aquamarine; text-align: center;
 font-style: initial;}
-.categories {display: flex;
+.categories 
+{
+    display: flex;
 justify-content: center;
-gap: 20px;}
-.box{background-color: aliceblue;
-    padding: 20px;
-border: 10 px;}
+gap: 20px;
+}
+.box
+{
+    background-color: aliceblue;
+    padding:5%;
+    border:20px solid black;
+}
