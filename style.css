@@ -2,6 +2,7 @@ h1{color: blue;
 size: 50px; 
 text-align: center;}
 
-a{color: black; size: 20px;
+a{display: block;
+    color: black; size: 20px;
 text-align: center;}
 
